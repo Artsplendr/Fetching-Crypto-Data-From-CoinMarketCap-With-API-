@@ -1,7 +1,7 @@
 ## Objective
 CoinMarketCap is great resource of the cryptocurrencies data, including price, market capitalization, volume, circulating supply, maximum supply, etc...
 Subscribtion to a paid plan gives access to more market data endpoints.
-This experiment will reproduce fetching crypto data from CoinMarketCap API (free basic plan) with Python.
+This experiment will reproduce fetching crypto data from CoinMarketCap API (with free basic plan) with Python.
 
 ## References
 1. "CoinMarketCap API - An Introductory Guide" by Igor Radovanovic available at <https://algotrading101.com/learn/coinmarketcap-api-guide/>;
